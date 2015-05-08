@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>Project/STM32100B-EVAL</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Build>
+        <PreferedWindows>
+          
+          
+          
+          
+        <Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows>
+        
+        
+        
+        
+      <ColumnWidth0>16</ColumnWidth0><ColumnWidth1>980</ColumnWidth1><ColumnWidth2>261</ColumnWidth2><ColumnWidth3>65</ColumnWidth3></Build>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>151</Column0><Column1>22</Column1><Column2>27</Column2><Column3>1992253923</Column3></ColumnWidths>
+      </Workspace>
+      <Find-in-Files>
+        <PreferedWindows>
+          
+          
+          
+          
+        <Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows>
+        
+        
+        
+      <ColumnWidth0>387</ColumnWidth0><ColumnWidth1>44</ColumnWidth1><ColumnWidth2>806</ColumnWidth2></Find-in-Files>
+      <TerminalIO/>
+    <Debug-Log><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Build</Factory></Window></Windows></PreferedWindows><ColumnWidth0>16</ColumnWidth0><ColumnWidth1>1307</ColumnWidth1></Debug-Log><Breakpoints><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Build</Factory></Window></Windows></PreferedWindows></Breakpoints></Static>
+    <Windows>
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-9553-2124</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>Project</ExpandedNode><ExpandedNode>Project/EWARMv5</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>D:\&#x6570;&#x636e;&#x6587;&#x4eF6;\IAR_STM32\v3.5\modbus\main.c</Filename><XPos>0</XPos><YPos>66</YPos><SelStart>2789</SelStart><SelEnd>2789</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\&#x6570;&#x636e;&#x6587;&#x4eF6;\IAR_STM32\v3.5\modbus\modbus\mb.c</Filename><XPos>0</XPos><YPos>146</YPos><SelStart>5318</SelStart><SelEnd>5318</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\&#x6570;&#x636e;&#x6587;&#x4eF6;\IAR_STM32\v3.5\modbus\modbus\rtu\mbrtu.c</Filename><XPos>0</XPos><YPos>147</YPos><SelStart>5615</SelStart><SelEnd>5615</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\&#x6570;&#x636e;&#x6587;&#x4eF6;\IAR_STM32\v3.5\modbus\modbus\include\mbport.h</Filename><XPos>0</XPos><YPos>72</YPos><SelStart>3375</SelStart><SelEnd>3375</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\&#x6570;&#x636e;&#x6587;&#x4eF6;\IAR_STM32\v3.5\modbus\modbus\port\portserial.c</Filename><XPos>0</XPos><YPos>136</YPos><SelStart>4571</SelStart><SelEnd>4571</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\&#x6570;&#x636e;&#x6587;&#x4eF6;\IAR_STM32\v3.5\modbus\modbus\port\porttimer.c</Filename><XPos>0</XPos><YPos>70</YPos><SelStart>2854</SelStart><SelEnd>2854</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\&#x6570;&#x636e;&#x6587;&#x4eF6;\IAR_STM32\v3.5\modbus\stm32f10x_it.c</Filename><XPos>0</XPos><YPos>54</YPos><SelStart>2617</SelStart><SelEnd>2617</SelEnd></Tab><ActiveTab>6</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>D:\&#x6570;&#x636e;&#x6587;&#x4eF6;\IAR_STM32\v3.5\modbus\modbus\port\portevent.c</Filename><XPos>0</XPos><YPos>40</YPos><SelStart>1396</SelStart><SelEnd>1396</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\&#x6570;&#x636e;&#x6587;&#x4eF6;\IAR_STM32\v3.5\modbus\modbus\port\port.c</Filename><XPos>0</XPos><YPos>28</YPos><SelStart>916</SelStart><SelEnd>916</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\&#x6570;&#x636e;&#x6587;&#x4eF6;\IAR_STM32\v3.5\modbus\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_usart.c</Filename><XPos>0</XPos><YPos>1021</YPos><SelStart>36684</SelStart><SelEnd>36684</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\&#x6570;&#x636e;&#x6587;&#x4eF6;\IAR_STM32\v3.5\modbus\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_tim.c</Filename><XPos>0</XPos><YPos>2255</YPos><SelStart>82689</SelStart><SelEnd>82689</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-01280ac8><key>iaridepm.enu1</key></Toolbar-01280ac8></Sizes></Row0><Row1><Sizes/></Row1></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>620</Bottom><Right>220</Right><x>-2</x><y>-2</y><xscreen>286</xscreen><yscreen>227</yscreen><sizeHorzCX>209370</sizeHorzCX><sizeHorzCY>339820</sizeHorzCY><sizeVertCX>162518</sizeVertCX><sizeVertCY>931138</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes/></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
